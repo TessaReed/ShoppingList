@@ -1,4 +1,4 @@
-itemsAvailable = ["eggs", "pies", "carrots", "oranges", "milk"]
+itemsAvailable = ["eggs", "pies", "carrots", "oranges", "milk", "apples", "oranges"]
 
 puts "hi there are you ready for your picnic"
 user_shopper = gets.chomp
