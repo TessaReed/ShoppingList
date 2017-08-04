@@ -1,17 +1,4 @@
-itemsAvailable = [
-"chips",
-"coke",
-"water",
-"Brie",
-"cheddar",
-alcohol = [
-  "tooheys old",
-  "rum",
-  "Gin",
-  "Tequila",
-  "Whisky"
-]
-]
+itemsAvailable = ["eggs", "pies", "carrots", "oranges", "milk"]
 
 puts "hi there are you ready for your picnic"
 user_shopper = gets.chomp
